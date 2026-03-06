@@ -17,15 +17,7 @@ A web-based tournament management system for 6 teams with group stage and knocko
 4. Use the reset button to start over
 
 ## Live Demo
-[Add your GitHub Pages link here after publishing]
-
-## Technologies Used
-- HTML5
-- CSS3
-- JavaScript
+[https://minawaeltanagho.github.io/maryam-league/]
 
 ## Author
-[Your Name]
-
-## License
-MIT
+[Mina Wael]
